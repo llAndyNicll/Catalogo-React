@@ -84,7 +84,7 @@ export const EditProductFullScreen = () => {
 
         dispatch(resetProductActive());
 
-        history.push('/edit-web/editar-producto');
+        history.push('/edit-web');
 
     };
 
